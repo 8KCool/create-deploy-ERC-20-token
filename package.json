@@ -1,0 +1,22 @@
+{
+  "name": "my-token",
+  "version": "1.0.0",
+  "description": "token of ERC-20",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/8KLancer/create-deploy-ERC-20-token.git"
+  },
+  "keywords": [
+    "8klancer"
+  ],
+  "author": "8klancer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8KLancer/create-deploy-ERC-20-token/issues"
+  },
+  "homepage": "https://github.com/8KLancer/create-deploy-ERC-20-token#readme"
+}
